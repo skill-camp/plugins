@@ -1,0 +1,13 @@
+{
+  "name": "skillcamp",
+  "displayName": "Skill Camp",
+  "version": "1.0.0",
+  "description": "Find and use your trained Skill Camp skills at the start of every task.",
+  "author": { "name": "Skill Science Inc.", "url": "https://skill.science" },
+  "homepage": "https://skillcamp.sh",
+  "license": "UNLICENSED",
+  "keywords": ["skills", "agents", "tools"],
+  "privacyPolicyUrl": "https://skillcamp.sh/privacy",
+  "termsOfServiceUrl": "https://skillcamp.sh/terms",
+  "supportUrl": "https://skillcamp.sh/support"
+}

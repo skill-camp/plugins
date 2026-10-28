@@ -1,0 +1,15 @@
+{
+  "name": "skill-camp",
+  "description": "The official Skill Camp marketplace: find and use your trained Skill Camp skills at the start of every task.",
+  "owner": {
+    "name": "Skill Science Inc.",
+    "url": "https://skill.science"
+  },
+  "plugins": [
+    {
+      "name": "skillcamp",
+      "source": "./plugins/claude",
+      "description": "Find and use your trained Skill Camp skills at the start of every task."
+    }
+  ]
+}
