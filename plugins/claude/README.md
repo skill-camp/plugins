@@ -21,7 +21,7 @@ The public marketplace only lists the production plugin. To try a staging server
 cp -r plugins/claude /tmp/skillcamp-staging
 ```
 
-Edit `/tmp/skillcamp-staging/.mcp.json` so the server URL is `https://mcp.skill-camp.sh/mcp`, then start Claude with that copy:
+Edit `/tmp/skillcamp-staging/.mcp.json` so the server URL is `https://mcp.staging.skillcamp.sh/mcp`, then start Claude with that copy:
 
 ```bash
 claude --plugin-dir /tmp/skillcamp-staging
